@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("Hello hot-fix");
         System.out.println("master conflict");
         System.out.println("conflig");
+        System.out.println("push test");
     }
 }
